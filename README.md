@@ -1,1 +1,15 @@
-goobert
+${\color{transparent}█████\color{#4646e8}█\color{#7070ee}███\color{#4646e8}█\color{transparent}█████}$<br>
+${\color{transparent}███\color{#7070ee}█\color{#4646e8}█\color{white}█\color{#4646e8}█\color{#7070ee}█\color{#4646e8}█\color{white}█\color{#4646e8}█\color{#7070ee}█\color{transparent}███}$<br>
+${\color{transparent}██\color{#7070ee}███\color{#4646e8}█\color{#eeee70}███\color{#4646e8}█\color{#7070ee}███\color{transparent}██}$<br>
+${\color{transparent}█\color{#7070ee}██\color{#dec98b}███\color{#eec370}███\color{#dec98b}███\color{#7070ee}██\color{transparent}█}$<br>
+${\color{transparent}█\color{#7070ee}█\color{#dec98b}███\color{#ffffd6}█████\color{#dec98b}███\color{#7070ee}█\color{transparent}█}$<br>
+${\color{#dec98b}████\color{#ffffd6}█\color{#1e1e1e}██\color{#ffffd6}█\color{#1e1e1e}██\color{#ffffd6}█\color{#dec98b}████}$<br>
+${\color{#dec98b}████\color{#ffffd6}███████\color{#dec98b}████}$<br>
+${\color{#dec98b}████\color{#ffffd6}███████\color{#dec98b}████}$<br>
+${\color{#7070ee}████████\color{#7070ee}███████}$<br>
+${\color{#7070ee}██████\color{white}███\color{#7070ee}██████}$<br>
+${\color{transparent}█\color{#7070ee}████\color{white}█████\color{#7070ee}████\color{transparent}█}$<br>
+${\color{transparent}█\color{#7070ee}████\color{white}█████\color{#7070ee}████\color{transparent}█}$<br>
+${\color{transparent}██\color{#7070ee}█\color{#eeee70}███\color{white}███\color{#eeee70}███\color{#7070ee}█\color{transparent}██}$<br>
+${\color{transparent}███\color{#eeee70}████\color{white}█\color{#eeee70}████\color{transparent}███}$<br>
+${\color{transparent}█████\color{#eeee70}██\color{white}█\color{#eeee70}██\color{transparent}█████}$<br>
